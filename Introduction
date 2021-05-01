@@ -1,0 +1,42 @@
+Python is classified as a multi-paradigm programming language 
+
+invented by Guido Van Rossum in 1991
+
+It is an open source programming language
+
+It is a high level, procedural, object oriented,imperative,reflective, aspect oriented
+
+it is a functional programming language 
+
+extension is .py and executes code dynamilcally i.e no output code generated so can say has dynamic typing
+
+available on multiple platforms
+
+capable of supporting structured exception handling
+
+multithreading supported which used in interactive applications and database applications
+(multitheading is extensively used in games)
+
+has support for sockets. eg of socket bit torrent
+
+can be used to develop gui applications ,data centric applications
+
+objective: emphasis code readability
+syntax simpler and can write same code written in other languages in fewer lines
+versions 3.4.x and 2.7.x; both being developed simultaneously 
+
+types of typing supporter:
+duck: eg.if we create an integer it will always behave as an integer
+dynamic: interpreter infers type of variable based on value assigned to it
+strong:eg if variable is integer we can only assign integer values to it
+
+adopted by various systems and companies
+major implementations CPython,Jython,PyPy, Iron-Python which runs on .net and developed by microsoft,Rpython,tackless python,pyjamas:python to javascript
+
+
+
+
+
+
+
+
