@@ -2,5 +2,32 @@
 no main function
 uses interpreter
 no .obj file generator
-''' :multiline outputs
-check code
+
+
+''' :used to print multiline outputs
+""":used to print multiline outputs
+check code file named "multiline.py" for example and better understanding
+
+
+we can use '\n' for new line
+
+
+how we use numbers?
+
+BODMAS used in calculations
+we can also directly use comparison operators in print function to get boolean outputs
+
+Basic data types:
+Note:type of data determined at run time because dynamic typing(check code "determine the types" to explicitly find the type of variable)
+
+1)Numerical :int, long, float, decimal and complex
+2)String
+3)Boolean
+4)None/null
+
+
+
+
+
+
+ 
