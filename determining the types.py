@@ -10,7 +10,7 @@ False
 >>> #lets print type of variable
 >>> i=30
 >>> print(type(i))
-<class 'int'>
+<class 'int'>#output
 >>> i=30.30
 >>> print(type(i))
 <class 'float'>
@@ -22,19 +22,9 @@ False
 <class 'str'>
 >>> print(type(i),i)
 <class 'str'> hello
->>> print(type(j),j)
-Traceback (most recent call last):
-  File "<pyshell#14>", line 1, in <module>
-    print(type(j),j)
-NameError: name 'j' is not defined
 >>> j=None
 >>> print(type(j))
 <class 'NoneType'>
->>> i-123456789012345678901234567890234590
-Traceback (most recent call last):
-  File "<pyshell#17>", line 1, in <module>
-    i-123456789012345678901234567890234590
-TypeError: unsupported operand type(s) for -: 'str' and 'int'
 >>> i=1234567890122345678912344
 >>> print(type(i))
 <class 'int'>
