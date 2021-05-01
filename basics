@@ -1,0 +1,6 @@
+#: used for single line comments
+no main function
+uses interpreter
+no .obj file generator
+''' :multiline outputs
+check code
