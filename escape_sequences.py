@@ -6,27 +6,6 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> backlash_cat="I'm\a\\cat"
 >>> fat_cat="""
 hi
-\t*cat food
-\t*fishies
-\t*catnip\nt* remember katniss :)"""
->>> print tabby_cat
-SyntaxError: Missing parentheses in call to 'print'. Did you mean print(tabby_cat)?
->>> print(tabby_cat)
-	I'm tabbed in.
->>> print(persian_cat)
-I'm split
-on a line
->>> print(backlash_cat)
-I'm\cat
->>> print(fat_cat)
-
-hi
-	*cat food
-	*fishies
-	*catnip
-t* remember katniss :)
->>> fat_cat="""
-hi
 \t*goodmorning
 \t*catnip
 \n\t*no its katniss"""
