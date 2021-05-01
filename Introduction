@@ -33,6 +33,11 @@ strong:eg if variable is integer we can only assign integer values to it
 adopted by various systems and companies
 major implementations CPython,Jython,PyPy, Iron-Python which runs on .net and developed by microsoft,Rpython,tackless python,pyjamas:python to javascript
 
+python influenced by many languages some of which are C,Cpp,Pearl,Java,Modula3
+python has influenced f#, go, ruby,javascript,swift, d, groovy
+
+
+
 
 
 
